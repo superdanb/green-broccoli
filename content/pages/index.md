@@ -72,7 +72,7 @@ sections:
             icon_position: right
         image: images/classic/feature-2.png
         image_alt: Feature 2 placeholder image
-        media_position: left
+        media_position: right
         media_width: fifty
       - title: The Big Title For the Feature
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
